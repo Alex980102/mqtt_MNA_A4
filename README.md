@@ -20,6 +20,7 @@
       Host: broker.hivemq.com
       Topic Suscription: MNA/EQUIPO/09
       ```
+    - Si no se puede abrir de ninguna de las siguientes les comparto el [link del cliente](http://mna.mqtt.beotech.com.mx) es un pequeño cliente que desarrollé en react basandome en el siguiente [repositorio de github ](https://github.com/emqx/MQTT-Client-Examples).
 
 ## Notas importantes
 - Para cambiar el tag se puede hacer de dos maneras
