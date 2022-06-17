@@ -14,9 +14,14 @@
     <a href="https://colab.research.google.com/github/Alex980102/mqtt_MNA_A4/blob/main/client_mqtt.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
     - Abrir un cliente propocionado por [Hivemq](http://www.hivemq.com/demos/websocket-client/)
     para esta opción la configuración por defecto sería la siguiente
     ![](./db/image_mqtt.png)
+      ```
+      Host: broker.hivemq.com
+      Topic Suscription: MNA/EQUIPO/09
+      ```
 
 ## Notas importantes
 - Para cambiar el tag se puede hacer de dos maneras
