@@ -26,7 +26,8 @@
       tag = os.environ.get('TAG')
       ```
       a la siguiente:
-      ````
+      
+      ```py
       tag = 'insertar_tag'
       ```
 
