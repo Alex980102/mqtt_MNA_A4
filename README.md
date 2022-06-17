@@ -11,9 +11,7 @@
 
 3. Usar un cliente para poder recibir los mensajes. Para este apartado podemos usar las siguientes opciones:
     - Abrir el cliente generado desde colab
-    <a href="https://colab.research.google.com/github/Alex980102/mqtt_MNA_A4/blob/main/client_mqtt.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-    </a>
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alex980102/mqtt_MNA_A4/blob/main/client_mqtt.ipynb)
 
     - Abrir un cliente propocionado por [Hivemq](http://www.hivemq.com/demos/websocket-client/)
     para esta opción la configuración por defecto sería la siguiente
